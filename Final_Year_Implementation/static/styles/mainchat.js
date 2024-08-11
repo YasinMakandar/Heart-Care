@@ -1,6 +1,6 @@
 // Initialize Firebase
 var config = {
-        apiKey: "AIzaSyDnmQFMztgoIYwuOLoOWUIIb8zpKZxs2eM",
+        apiKey: "",
         authDomain: "contactform-c6a0c.firebaseapp.com",
         databaseURL: "https://contactform-c6a0c-default-rtdb.firebaseio.com",
         projectId: "contactform-c6a0c",
